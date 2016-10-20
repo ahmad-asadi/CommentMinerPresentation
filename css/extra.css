@@ -1,0 +1,20 @@
+.extra-container{
+    display: block;
+    text-align: center;
+}
+
+.extra-container .left-container{
+    float: left;
+    max-width: 45%;
+}
+
+.extra-container .right-container{
+    float: right;
+    max-width: 45%;
+}
+
+.extra-container .center-container{
+    clear: both;
+    max-width: 45%;
+    display: block;
+}
